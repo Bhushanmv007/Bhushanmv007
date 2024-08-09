@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://github.com/bhushanmv007)
 
-<h1 align="center">Hi 👋, I'm Bhushan M V</h1>
+<h1 align="center">Hi 👋, I'm Bhushan </h1>
 <h3 align="center">A passionate software developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif">
