@@ -1,7 +1,6 @@
-[![MasterHead](![Artist Creates The Best Japanese Pixel Art GIFs on Earth](https://github.com/user-attachments/assets/aab6acea-f6e8-4080-b330-b4c2adc906c4)
-)](https://github.com/bhushanmv007)
+<!-- [![MasterHead](https://github.com/user-attachments/assets/7ae3f7bc-ee81-4a46-a6f1-6d4b520bd139)](https://github.com/bhushanmv007) -->
 
-<h1 align="center">Hi 👋, I'm Bhushan </h1>
+<h1 align="center">Hi 👋, I'm Bhushan</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif">
@@ -59,8 +58,8 @@
   </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhushanmv007&show_icons=true&locale=en&layout=compact" alt="bhushanmv007" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhushanmv007&show_icons=true&locale=en" alt="bhushanmv007" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhushanmv007&" alt="bhushanmv007" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhushanmv007&show_icons=true&locale=en&layout=compact" alt="bhushanmv007" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bhushanmv007&show_icons=true&locale=en" alt="bhushanmv007" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhushanmv007&" alt="bhushanmv007" />
+</div>
