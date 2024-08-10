@@ -7,7 +7,7 @@
 <!-- <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif"> -->
 
 <h3 align="left">Hi I'm Bhushan, a passionate software developer from India</h3>
-<p align="left">Currently diving deep into Python, AI, and Data Science, I enjoy building innovative software solutions. With strong skills in C, C++, Python, and Django, I am always eager to learn and work on new technologies. My journey in tech involves continuous learning and applying my skills to create meaningful and impactful projects.</p>
+<p align="left">Currently diving deep into Python, AI, and Data Science, I enjoy building innovative software solutions. With strong skills in C, C++, Python and Django, I am always eager to learn and work on new technologies. My journey in tech involves continuous learning and applying my skills to create meaningful and impactful projects.</p>
 
 <hr />
 
